@@ -1,0 +1,32 @@
+{
+  "email": "AKSHAY@gmail.com",
+  "course": {
+    "description": "Bootcamp",
+    "email": "akshay@gmail.com",
+    "name": "Java"
+  },
+  "mVideo": [
+    {
+      "Duration": 5,
+      "name": "First Video"
+    },
+    {
+      "Duration": 6,
+      "name": "Second Video"
+    },
+    {
+      "Duration": 33,
+      "name": "Third Video"
+    },
+    {
+      "Duration": 855,
+      "name": "Fourth Video"
+    },
+    {
+      "Duration": 4646,
+      "name": "Fifth Video"
+    }
+  ],
+  "name": "AKSHAY",
+  "sem": 3
+}
